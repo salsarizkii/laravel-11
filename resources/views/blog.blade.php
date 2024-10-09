@@ -9,7 +9,7 @@
 <body>
     <h1>BLOG PAGE</h1>
     <h2>ini blog</h2>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa praesentium quae aliquid ex unde doloribus officiis. Velit eum nulla explicabo, temporibus reprehenderit, veritatis nisi ab inventore amet quibusdam animi a.</p>
+    <p>Lorem ipsum, dolork sit amet consectetur adipisicing elit. Ipsa praesentium quae aliquid ex unde doloribus officiis. Velit eum nulla explicabo, temporibus reprehenderit, veritatis nisi ab inventore amet quibusdam animi a.</p>
     <br>
     <br>
     <h2>ini blog juga</h2>
