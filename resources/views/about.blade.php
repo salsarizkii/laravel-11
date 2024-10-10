@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman About</title>
-</head>
-<body>
-    <h1>Halo boi ini about</h1>
-</body>
-</html>
+<x-layout>
+    <x-slot:title>{{ $title }}</x-slot:title>
+    <h2>About me eak</h2>
+</x-layout>
